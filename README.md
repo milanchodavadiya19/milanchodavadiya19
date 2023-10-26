@@ -10,15 +10,15 @@ I am aspiring AI developer who is passionate about deep learning and it's effici
 - 📫 More details: [milanchodavadiya19.github.io](https://[milanchodavadiya19.github.io/)
 - 💬 Ask me about: 
 
-Programming	        Python, C, Embedded C++, ROS, Linux, SQL, R, MATLAB
-Libraries	          OpenCV, Pandas, NumPy, Matplotlib
-Frameworks	        TensorFlow, Keras, PyTorch, Docker, TensorRT, Scikit-learn, Git, Anaconda Spyder
-Version control	    GitHub, AWS Code Commit, Jira
-Machine Learning	
+- Programming	        Python, C, Embedded C++, ROS, Linux, SQL, R, MATLAB
+- Libraries	          OpenCV, Pandas, NumPy, Matplotlib
+- Frameworks	        TensorFlow, Keras, PyTorch, Docker, TensorRT, Scikit-learn, Git, Anaconda Spyder
+- Version control	    GitHub, AWS Code Commit, Jira
+- Machine Learning	
 	                  > Image processing and pattern recognition, transfer learning, template matching
 	                  > Object detection and tracking, object classification and segmentation
 	                  > Generative adversarial network (GAN), Natural Language Processing (NLP)
-Computer skills	
+- Computer skills	
 	                  > Documentation: MS Office (Word, Power Point, Excel, Outlook)
 	                  > OS: Windows, Linux (Ubuntu 18,04), Embedded Linux
 	                  > Hardware: Raspberry Pi, Arduino
