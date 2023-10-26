@@ -34,3 +34,6 @@ I am aspiring AI developer who is passionate about deep learning and it's effici
 
 [stats]: https://github-readme-stats.vercel.app/api?username=anujdutt9&show_icons=true&count_private=false&theme=radical&hide=issues,commits&hide_rank=true&custom_title=Anuj's%20Stats
 [hexapod]: https://hexapod.netlify.app/
+
+---
+[![](https://visitcount.itsvg.in/api?id=Dineshrestha&icon=0&color=0)](https://visitcount.itsvg.in)
