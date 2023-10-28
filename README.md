@@ -7,7 +7,7 @@ I am aspiring AI developer who is passionate about deep learning and it's effici
 - 🌱 I’m currently learning how to compress and optimize neural networks for embedded/mobile devices.
 - 👯 I’m always open to meaningful collaborations.
 - 😄 Pronouns: He/His
-- 📫 More details: [milanchodavadiya19.github.io](https://[milanchodavadiya19.github.io/)
+- 📫 More details: [milanchodavadiya19.github.io](https://milanchodavadiya19.github.io/)
 - 💬 Ask me about:
   
 # 💻 Tech Stack:
