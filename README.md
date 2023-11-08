@@ -9,7 +9,6 @@ I am aspiring AI developer who is passionate about deep learning and it's effici
 - 😄 Pronouns: He/His
 - 📫 More details: [milanchodavadiya19.github.io](https://milanchodavadiya19.github.io/)
 - 💬 Ask me about:
-GIF
 
   
 # 💻 Tech Stack:
